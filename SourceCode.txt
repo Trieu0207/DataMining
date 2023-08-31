@@ -1,0 +1,11 @@
+https://colab.research.google.com/drive/1gHwbOGgDAM96Yd4bjSxcWnTLac2l_teV
+Mức tương quan giữa các yếu tố - dự đoán tương lai
+
+https://colab.research.google.com/drive/1EeYk-IPl9D2WPifd08ArCO2YS1COxotj
+Phân cụmm
+
+https://colab.research.google.com/drive/1ZwCB8ZFil38tTyk2emFRWXixd1ZJpial
+Tiền xử lý, phân tích dữ liệu cơ bản và xây dựng luật kết hợp cơ bản
+
+https://colab.research.google.com/drive/18Zanr5JsowszEiE8NTd7jdEMRYFQeQ1z
+Trực quan hóa dân số toàn thế giới 
